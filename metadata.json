@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast AI",
+  "description": "Intelligent weather forecasting powered by Gemini 2.5 with Google Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
